@@ -3,3 +3,6 @@ Command Pattern : PlayerController , IInputCommand.
 Observer : HealthSystem ,  Game Manager (Level fail callback).
 State : EnemyController , EnemyState.
 Singleton : GameManager.
+
+If the scene doesn't autoload >>> asset>scene>task.unity
+Game Resolution: 16:9
