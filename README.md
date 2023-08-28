@@ -1,4 +1,5 @@
 # Outscal-Task
+Unity version : 2021.3.21f1
 Please refer to About.txt file in asset folder for project details.
 
 Design Patterns used in Scripts:
